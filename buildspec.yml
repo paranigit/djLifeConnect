@@ -10,7 +10,6 @@ environment_variables:
     STREAM_INCOMING_PUBLIC_KEY: changeme
     GOOGLE_API_KEY: changeme
     OPBEAT_ENABLED: False
-
 phases:
   pre_build:
     commands:
