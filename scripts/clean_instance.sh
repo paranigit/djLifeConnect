@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-
-rm -rf /home/ubuntu/djLifeConnect/*
+#
+sudo rm -rf /home/ubuntu/blogprojectdrf/*
